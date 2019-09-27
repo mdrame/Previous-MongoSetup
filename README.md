@@ -1,4 +1,4 @@
-<h1 style="color:red;"> Flask - Mongo Virtual Enviroment set up </h1>
+- # Flask - Mongo Virtual Enviroment set up 
 
 <img src="FlaskMongoDB.png"/>
 
